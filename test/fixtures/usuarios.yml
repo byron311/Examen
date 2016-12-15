@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyText
+  apellido: MyText
+  rol: MyText
+  cargo: MyText
+  fecha_de_nacimiento: 2016-12-15 10:33:45
+
+two:
+  nombre: MyText
+  apellido: MyText
+  rol: MyText
+  cargo: MyText
+  fecha_de_nacimiento: 2016-12-15 10:33:45
